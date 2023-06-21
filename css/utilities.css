@@ -1,0 +1,12 @@
+/* This style sheet will be used for any utility classes that will be used throughout the website. */
+
+/* TEXT COLORS */
+.text-primary {
+    color: #28a745;
+}
+
+.text-secondary {
+    color: #0284d0;
+}
+
+
